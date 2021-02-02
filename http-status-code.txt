@@ -1,0 +1,4 @@
+Sources about HTTP status code
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
